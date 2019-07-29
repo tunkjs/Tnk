@@ -1,6 +1,6 @@
 {
     "name": "mediatorx",
-    "version": "1.4.2",
+    "version": "1.4.5",
     "description": "An advanced Mediator and also a micro data center.",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -17,7 +17,8 @@
     },
     "keywords": [
         "mediator",
-        "datacenter"
+        "store",
+        "state"
     ],
     "author": "stevenjc.chen",
     "license": "MIT",
